@@ -112,7 +112,7 @@ window.addEventListener('load', () =>{
                     start: "bottom 50%", // when the top of the trigger hits the top of the viewport
                     end: "+=100px", // end after scrolling 500px beyond the start
                     scrub: 1, // smooth scrubbing, takes 1 second to "catch up" to the scrollbar
-                    markers: true,
+                    // markers: true,
                   },
                   opacity:1,
                   ease:"none",
